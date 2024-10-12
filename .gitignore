@@ -1,0 +1,7 @@
+random_file.txt
+._.DS_Store
+._.vscode
+.vscode
+node_modules
+record-store/node_modules
+vite-project/node_modules
